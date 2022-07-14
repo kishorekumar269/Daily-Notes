@@ -3,7 +3,7 @@ pipeline{
 agent any
 
 tools{
-maven 'maven3.8.2'kis
+maven 'maven3.8.2'
 
 }
 
