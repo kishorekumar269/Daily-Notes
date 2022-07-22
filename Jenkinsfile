@@ -3,7 +3,11 @@ pipeline{
 agent any
 
 tools{
+<<<<<<< HEAD
 maven 'maven2.8.1'
+=======
+maven 'maven3.8.0'
+>>>>>>> refs/remotes/origin/main
 
 }
 
